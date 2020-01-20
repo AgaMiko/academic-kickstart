@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Gdańsk, Poland"
   date_start = "2018-06-01"
   date_end = ""
-  description = """
+  description = """"""
   
   
 [[experience]]
@@ -35,7 +35,8 @@ date_format = "Jan 2006"
   location = "Ulsan, South Korea"
   date_start = "2019-05-15"
   date_end = "2019-06-15"
-  description = """
+  description = """"""
+
 
 [[experience]]
   title = "Research Assistant and C++ Software Developer"
