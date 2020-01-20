@@ -1,7 +1,7 @@
 ---
 title: "Szacowanie maksymalnego pola elektrycznego indukowanego w ciele człowieka przez zewnętrzne pole magnetyczne"
 date: 2016-01-01
-publishDate: 2020-01-20T16:07:40.132974Z
+publishDate: 2020-01-20T16:10:25.726680Z
 authors: ["T Lisewski", "A Mikołajczyk", "S Abramik"]
 publication_types: ["2"]
 abstract: ""

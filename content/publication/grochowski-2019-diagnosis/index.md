@@ -1,7 +1,7 @@
 ---
 title: "Diagnosis of malignant melanoma by neural network ensemble-based system utilising hand-crafted skin lesion features"
 date: 2019-01-01
-publishDate: 2020-01-20T16:07:40.132974Z
+publishDate: 2020-01-20T16:10:25.735672Z
 authors: ["Michał Grochowski", "Agnieszka Mikołajczyk", "Arkadiusz Kwasigroch"]
 publication_types: ["2"]
 abstract: ""
