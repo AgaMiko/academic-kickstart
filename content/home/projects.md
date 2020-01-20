@@ -26,8 +26,20 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Image Analysis"
+  #   tag = "Image Analysis"
+  
+  # [[content.filter_button]]
+  #   name = "Audio Analysis"
+  #   tag = "Audio Analysis"
+  
+  # [[content.filter_button]]
+  #   name = "Explainable AI"
+  #   tag = "Explainable AI"
+  
+  # [[content.filter_button]]
+  #   name = "Data Augmentation"
+  #   tag = "Data Augmentation"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -45,7 +57,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
