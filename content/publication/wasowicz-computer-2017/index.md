@@ -6,7 +6,7 @@ publishDate: 2020-01-20T15:59:09.431281Z
 authors: ["Michał Wąsowicz", "Michał Grochowski", "Marek Kulka", "Agnieszka Mikołajczyk", "Mateusz Ficek", "Katarzyna Karpieńko", "Maciej Cićkiewicz"]
 =======
 publishDate: 2020-01-20T15:25:24.393199Z
-authors: ["Michał Wąsowicz", "Michał Grochowski", "Marek Kulka", "Agnieszka Mikołajczyk", "Mateusz Ficek", "Katarzyna Karpie\ŉko", "Maciej Cićkiewicz"]
+authors: ["Michał Wąsowicz", "Michał Grochowski", "Marek Kulka", "Agnieszka Mikołajczyk", "Mateusz Ficek", "Katarzyna Karpieńko", "Maciej Cićkiewicz"]
 >>>>>>> parent of d477879... Update index.md:content/publication/wkasowicz-2017-computer/index.md
 publication_types: ["1"]
 abstract: ""
