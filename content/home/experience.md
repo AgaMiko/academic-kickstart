@@ -17,28 +17,42 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Lecturer and research assistant"
+  company = "Gdańsk University of Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Gdańsk, Poland"
+  date_start = "2018-06-01"
+  date_end = ""
+  description = """
+  
+  
+[[experience]]
+  title = "Research Intern at Explainable Artificial Intelligence Center"
+  company = "Ulsan National Institute of Science and Technology"
+  company_url = ""
+  location = "Ulsan, South Korea"
+  date_start = "2019-05-15"
+  date_end = "2019-06-15"
+  description = """
+
+[[experience]]
+  title = "Research Assistant and C++ Software Developer"
+  company = "Institute of Electrical Engineering"
+  company_url = "https://iel.pl/en/home.html"
+  location = "Gdańsk, Poland"
+  date_start = "2014-07-01"
+  date_end = "2016-11-31"
+  description = """"""
+
+[[experience]]
+  title = "Junior Electromagnetic Compability Engineer"
+  company = "Institute of Electrical Engineering"
+  company_url = "https://iel.pl/en/home.html"
+  location = "Gdańsk, Poland"
+  date_start = "2013-07-01"
+  date_end = "2013-08-31"
+  description = """"""
 
 +++
