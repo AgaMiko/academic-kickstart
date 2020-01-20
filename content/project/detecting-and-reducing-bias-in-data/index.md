@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Detecting and Reducing Bias in Data"
-summary: ""
-authors: []
-tags: []
+summary: "The main research objective of my project is to propose and apply the methods for globally-aware local explanations for justification of single prediction, global explanations for identification of the bias in data collection, and finally, elimination of detected undesirable bias with trainable attention guidance."
+authors: [Agnieszka Mikołajczyk]
+tags: [Explainable AI, Deep Learning]
 categories: []
 date: 2020-01-20T16:12:35+01:00
 
