@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   company_url = "https://iel.pl/en/home.html"
   location = "Gdańsk, Poland"
   date_start = "2014-07-01"
-  date_end = "2016-11-31"
+  date_end = "2016-11-30"
   description = """"""
 
 [[experience]]
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   company_url = "https://iel.pl/en/home.html"
   location = "Gdańsk, Poland"
   date_start = "2013-07-01"
-  date_end = "2013-08-31"
+  date_end = "2013-08-30"
   description = """"""
 
 +++
