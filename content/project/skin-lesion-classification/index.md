@@ -1,9 +1,9 @@
----
+Ôªø---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Skin Lesion Classification"
 summary: ""
-authors: [Agnieszka Miko≥ajczyk, Arkadiusz Kwasigroch, Micha≥ Grochowski]
+authors: [Agnieszka Miko≈Çajczyk, Arkadiusz Kwasigroch, Micha≈Ç Grochowski]
 tags: [Deep Learning, Image Analtysis, Medicine]
 categories: []
 date: 2020-01-20T16:11:19+01:00

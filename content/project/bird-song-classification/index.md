@@ -1,9 +1,9 @@
----
+Ôªø---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Bird Song Classification"
 summary: "Sound-Based Bird Classification using Convolutional Neural Networks and Mel-Cepstrum Sepctrograms"
-authors: [Agnieszka Miko≥ajczyk, Magdalena Kortas, Monika Serkowska, Ma≥gorzata Ciwoniuk, Agata Dragan-GÛrska, Magdalena KamiÒska, Ewa TusieÒ]
+authors: [Agnieszka Miko≈Çajczyk, Magdalena Kortas, Monika Serkowska, Ma≈Çgorzata Ciwoniuk, Agata Dragan-G√≥rska, Magdalena Kami≈Ñska, Ewa Tusie≈Ñ]
 tags: [Sound Analysis, Deep Learning]
 categories: []
 date: 2020-01-20T16:06:02+01:00
