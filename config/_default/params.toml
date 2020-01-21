@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "agnieszka.mikolajczyk@pg.edu.pl"
+email = "email@com.pl"
 phone = ""
 
 # Address
@@ -93,7 +93,7 @@ address = {street = "Gabriela Narutowicza 11/12", city = "Gdańsk", region = "GD
 coordinates = {latitude = "54.371838", longitude = "18.617755"}
 
 # Directions for visitors to locate you.
-directions = "Enter faculty of Electrical and Control Engineering Building and take the stairs to Office 207 on Floor 2"
+directions = "Enter Building WEiA and take the stairs to Office 207 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -107,9 +107,9 @@ directions = "Enter faculty of Electrical and Control Engineering Building and t
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/agnieszkamikolajczyk/"},
-  {icon = "researchgate", icon_pack = "ai", name = "Research Gate", link = "https://www.researchgate.net/profile/Agnieszka_Mikolajczyk4"},
-  {icon = "github", icon_pack = "fab", name = "Codes", link = "https://github.com/AgaMiko"},
-  {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.pl/citations?user=VFMjpTsAAAAJ&hl=pl"},
+  {icon = "researchgate", icon_pack = "envelope", name = "Research Gate", link = "https://www.researchgate.net/profile/Agnieszka_Mikolajczyk4"},
+  {icon = "github", icon_pack = "fas", name = "Codes", link = "https://github.com/AgaMiko"},
+  {icon = "google-scholar", icon_pack = "envelope", name = "Google Scholar", link = "https://scholar.google.pl/citations?user=VFMjpTsAAAAJ&hl=pl"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -252,7 +252,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 10
+  zoom = 15
 
 ############################
 ## Marketing
