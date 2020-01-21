@@ -1,4 +1,4 @@
-﻿---
+---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Detecting and Reducing Bias in Data"
