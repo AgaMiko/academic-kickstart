@@ -12,6 +12,3 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
-# Background gradient.
-gradient_start = "#f7f5f5"
-gradient_end = "#ffffff"
