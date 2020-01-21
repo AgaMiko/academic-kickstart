@@ -4,10 +4,10 @@
 title: "Introduction to Explainable AI: why should we understand AI predictions?"
 event: AI Bay Meeting
 event_url: https://evenea.pl/imprezy/konferencje/gdansk/ai-bay-cykliczne-spotkanie-klubu-zatoki-sztucznej-inteligencji-245563
-location: GdaÒsk
+location: Gda≈Ñsk
 address:
   street: Narutowicza 11/12
-  city: GdaÒsk
+  city: Gda≈Ñsk
   region:
   postcode:
   country: Poland
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-01-20T16:19:13+01:00
 
-authors: [Agnieszka Miko≥ajczyk]
+authors: [Agnieszka Miko≈Çajczyk]
 tags: [explainable AI, Deep Learning]
 
 # Is this a featured talk? (true/false)

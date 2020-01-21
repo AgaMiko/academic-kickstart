@@ -4,7 +4,7 @@
 title: "Brief introduction to XAI"
 event: Gradient
 event_url: https://gradient.eti.pg.gda.pl/spotkania/
-location: GdaÒsk University of Technology
+location: Gda≈Ñsk University of Technology
 address:
   street:
   city:
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-01-20T16:19:22+01:00
 
-authors: [Agnieszka Miko≥ajczyk]
+authors: [Agnieszka Miko≈Çajczyk]
 tags: [explainable AI, Deep Learning]
 
 # Is this a featured talk? (true/false)
