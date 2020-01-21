@@ -3,7 +3,7 @@
 
 title: "Bird Song Classification"
 summary: "Sound-Based Bird Classification using Convolutional Neural Networks and Mel-Cepstrum Sepctrograms"
-authors: []
+authors: [Agnieszka Miko³ajczyk, Magdalena Kortas, Monika Serkowska, Ma³gorzata Ciwoniuk, Agata Dragan-Górska, Magdalena Kamiñska, Ewa Tusieñ]
 tags: [Sound Analysis, Deep Learning]
 categories: []
 date: 2020-01-20T16:06:02+01:00
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/wimlds-trojmiasto/birds"
 url_pdf: ""
 url_slides: ""
 url_video: ""

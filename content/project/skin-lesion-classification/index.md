@@ -3,8 +3,8 @@
 
 title: "Skin Lesion Classification"
 summary: ""
-authors: []
-tags: []
+authors: [Agnieszka Miko³ajczyk, Arkadiusz Kwasigroch, Micha³ Grochowski]
+tags: [Deep Learning, Image Analtysis, Medicine]
 categories: []
 date: 2020-01-20T16:11:19+01:00
 

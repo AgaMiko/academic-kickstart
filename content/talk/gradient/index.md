@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Gradient"
-event:
-event_url:
-location:
+title: "Brief introduction to XAI"
+event: Gradient
+event_url: https://gradient.eti.pg.gda.pl/spotkania/
+location: Gdañsk University of Technology
 address:
   street:
   city:
@@ -16,15 +16,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-01-20T16:19:22+01:00
-date_end: 2020-01-20T16:19:22+01:00
+date: 2019-10-12T16:18:00+01:00
+date_end: 2019-10-12T16:18:45+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-01-20T16:19:22+01:00
 
-authors: []
-tags: []
+authors: [Agnieszka Miko³ajczyk]
+tags: [explainable AI, Deep Learning]
 
 # Is this a featured talk? (true/false)
 featured: false

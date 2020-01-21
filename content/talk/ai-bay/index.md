@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ai Bay"
-event:
-event_url:
-location:
+title: "Introduction to Explainable AI: why should we understand AI predictions?"
+event: AI Bay Meeting
+event_url: https://evenea.pl/imprezy/konferencje/gdansk/ai-bay-cykliczne-spotkanie-klubu-zatoki-sztucznej-inteligencji-245563
+location: Gdañsk
 address:
-  street:
-  city:
+  street: Narutowicza 11/12
+  city: Gdañsk
   region:
   postcode:
-  country:
+  country: Poland
 summary:
 abstract:
 
@@ -23,8 +23,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-01-20T16:19:13+01:00
 
-authors: []
-tags: []
+authors: [Agnieszka Miko³ajczyk]
+tags: [explainable AI, Deep Learning]
 
 # Is this a featured talk? (true/false)
 featured: false
