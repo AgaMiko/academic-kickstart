@@ -534,12 +534,12 @@ ul.ul-edu li .description p.institution {
  **************************************************/
 
 .contact-widget .fa-ul {
-  margin-left: 0;#3.14285714rem; /* Must be > `fa-2x` icon size. */
+  margin-left: 0;/*3.14285714rem;  Must be > `fa-2x` icon size. */
 }
 
 .contact-widget .fa-li {
   position: absolute;
-  left: 0;#-3.14285714rem; /* Negative of `.contact-widget .fa-ul` margin. */
+  left: 0;/*#-3.14285714rem;  Negative of `.contact-widget .fa-ul` margin. */
   width: 2rem; /* Match `fa-2x` icon size. */
   top: 0.14285714em; /* Default FA value. */
   text-align: center;
