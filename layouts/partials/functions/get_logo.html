@@ -2,7 +2,7 @@
 {{/* Inputs: constraint: max_height/fit (str); size (int) */}}
 {{/* Output: resource (obj) */}}
 
-{{ $logo := resources.Get "images/logo.png" }}
+{{ $logo := resources.Get "images/logo.svg" }}
 {{ $logo_proc := $logo }}
 
 {{ if eq .constraint "max_height" }}
