@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Skin Lesion Classification"
+subtitle: Early detecion of skin cancer with Convolutional Neural Networks and Dermoscopic Imaging
 summary: ""
 authors: [Agnieszka Mikołajczyk, Arkadiusz Kwasigroch, Michał Grochowski]
 tags: [Deep Learning, Image Analtysis, Medicine]
@@ -39,3 +40,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+In the last twenty years the interest of automated skin lesion classification dynamically increased partially because of public datasets appearing. Automated computer-aided skin cancer detection in dermatoscopic images is a very challenging task due to uneven
+datasets sizes, the huge intra-class variation with small interclass variation, and numerous artifacts. During my work on the project I approached the problem in two ways:
+* with hand-crafted features based on extended ABCD rule and a shallow neural network,
+* with Convolutional Neural Networks.
+
+![ISIC Challenge 2019](https://workshop2018.isic-archive.com/images/task3.png)
