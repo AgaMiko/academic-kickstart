@@ -21,8 +21,8 @@ image:
   preview_only: false
 
 # Custom links (optional).
-   Uncomment and edit lines below to show custom links.
-links:
+#   Uncomment and edit lines below to show custom links.
+# links:
  - name: Medium article
    url: https://towardsdatascience.com/sound-based-bird-classification-965d0ecacb2b
    icon_pack: fab
