@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Introduction to Explainable AI: why should we understand AI predictions?"
+title: "Introduction to Explainable AI: why should we understand AI decisions?"
 event: AI Bay Meeting
 event_url: https://evenea.pl/imprezy/konferencje/gdansk/ai-bay-cykliczne-spotkanie-klubu-zatoki-sztucznej-inteligencji-245563
 location: Gdańsk
@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country: Poland
-summary:
+summary: Is XAI really that important? Why should we try to explain our models' predictions? A short introduction to explainable AI.
 abstract:
 
 # Talk start and end times.
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["detecting-and-reducing-bias-in-data"]
 ---
