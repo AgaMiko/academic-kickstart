@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "Feel free to visit my google scholar profile for more insight"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -65,7 +65,3 @@ subtitle = "Feel free to visit my google scholar profile for more insight"
  # CSS class.
  css_class = ""
 +++
-
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
