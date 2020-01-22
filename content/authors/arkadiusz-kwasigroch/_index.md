@@ -77,4 +77,4 @@ email: ""
 
 Arkadiusz Kwasigroch is a researcher from Gdańsk University of Technology. We work together in one team. He is interested in following fields: deep learning, python and computer vision.
 
-[**Click here to visit her website**](https://amikolajczyk.netlify.com/)
+[**Click here to visit his website**](https://akwasigroch.github.io/)
