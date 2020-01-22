@@ -1,7 +1,19 @@
+/* change website width */
 .container {
     max-width: 70%;
 }
 
+/* change badge color in experience list */
 .experience .m-2 .border.exp-fill {
     background-color: #ed9d9f!important;
+}
+
+/* navigation bar custom settings */
+.navbar {
+    height: 100px;
+    background: #4a4e69;
+    box-shadow: 0 0.125rem 0.3rem 0 rgba(0,0,0,.15);
+    font-size: x-large;
+    font-variant: all-small-caps;
+    font-family: unset;
 }
