@@ -15,7 +15,7 @@ role: PhD Candidate & Machine Learning Enthusiast
 # Organizations/Affiliations
 organizations:
 - name: Gdańsk University of Technology
-  url: ""
+  url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
