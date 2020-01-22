@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Brief introduction to visual local explainabiliy methods - Local Interpretable Model-Agnostic Explanations (LIME), Layer-wise Relevance Propagation (LRP) and Counterfactuals
 abstract:
 
 # Talk start and end times.
@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://github.com/AgaMiko/talks/blob/master/2019/gradient/Introduction%20to%20XAI.pdf
 
 url_code:
-url_pdf:
+url_pdf: https://github.com/AgaMiko/talks/tree/master/2019/gradient
 url_video:
 
 # Markdown Slides (optional).
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["detecting-and-reducing-bias-in-data"]
 ---
