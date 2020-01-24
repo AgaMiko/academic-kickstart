@@ -4,7 +4,7 @@ name: "Arkadiusz Kwasigroch"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Arkadiusz Kwasigroch"
+- Name: "Arkadiusz Kwasigroch"
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-Arkadiusz Kwasigroch is a machine learning researcher at a Gdańsk University of Technology. His main interests include deep learning and computer vision.
+bio: Arkadiusz Kwasigroch is a machine learning researcher at a Gdańsk University of Technology. His main interests include deep learning and computer vision.
 
 # List each interest with a dash
 # interests:
