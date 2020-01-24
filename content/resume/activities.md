@@ -55,6 +55,3 @@ subtitle = "My social activity"
 * Organisation of the [IAV Cup 2019](https://eti.pg.edu.pl/safeidea/iav-cup-2019) competition (member of the Organisational Committee)
 * Member of the [Gdańsk University of Technology Faculty Council](https://eia.pg.edu.pl/o-wydziale/sklad) representing the faculty, the Audit Committee and the Disciplinary Committee of the Faculty of Electrical Engineering and Automation (2018/2019 and 2019/2020)
 * [Representative of PhD Students](https://pg.edu.pl/sd/obecny-samorzad) at the Faculty Council and Member of the Faculty Scholarship Committee (Faculty of Electrical Engineering and Automation) - 2018/2019 and 2019/2020 
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
