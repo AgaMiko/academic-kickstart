@@ -10,15 +10,16 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Machine Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Gdańsk University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:
+Arkadiusz Kwasigroch is a machine learning researcher at a Gdańsk University of Technology. His main interests include deep learning and computer vision.
 
 # List each interest with a dash
 # interests:
@@ -75,6 +76,6 @@ email: ""
 ---
 # Info
 
-Arkadiusz Kwasigroch is a researcher from Gdańsk University of Technology. We work together in one team. He is interested in following fields: deep learning, python and computer vision.
+Arkadiusz Kwasigroch is a machine learning researcher at a Gdańsk University of Technology. His main interests include deep learning and computer vision.
 
 [**Click here to visit his website**](https://akwasigroch.github.io/)
