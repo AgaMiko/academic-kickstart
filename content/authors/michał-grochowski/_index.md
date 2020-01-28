@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Machine Learning Researcher
+role: Machine Learning Researcher (my supervisor)
 
 # Organizations/Affiliations
 organizations:
@@ -72,9 +72,9 @@ email: ""
 # user_groups:
 # - Group 1
 # - Group 2
+# [**Click here to visit his website**](https://akwasigroch.github.io/)
 ---
 # Info
 
 Michał Grochowski is my supervisor. He is a machine learning researcher at a Gdańsk University of Technology. His main interests include deep learning and computer vision.
 
-# [**Click here to visit his website**](https://akwasigroch.github.io/)
