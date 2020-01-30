@@ -42,22 +42,22 @@ bio: Michał Grochowski is my supervisor. He is a machine learning researcher at
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-<!-- social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/a_kwasigroch
+social:
+# - icon: twitter
+  # icon_pack: fab
+  # link: https://twitter.com/a_kwasigroch
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.pl/citations?user=Hw7DV4QAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/akwasigroch
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/arkadiusz-kwasigroch-33089312b
+  link: https://scholar.google.pl/citations?user=UTA55L8AAAAJ&hl=pl
+# - icon: github
+  # icon_pack: fab
+  # link: 
+# - icon: linkedin
+  # icon_pack: fab
+  # link: 
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Arkadiusz_Kwasigroch -->
+  link: https://www.researchgate.net/profile/Michal_Grochowski
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
