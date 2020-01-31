@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://github.com/AgaMiko/talks/tree/master/2020/AI%20Bay
 
 url_code:
-url_pdf:
+url_pdf: https://github.com/AgaMiko/talks/blob/master/2020/AI%20Bay/Introduction%20to%20XAI-%20why%20should%20we%20understand%20AI%20decisions.pdf
 url_video:
 
 # Markdown Slides (optional).
