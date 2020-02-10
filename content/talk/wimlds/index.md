@@ -11,7 +11,7 @@ address:
   region:
   postcode: 61-871
   country: Poland
-summary: Have you ever wondered about the name of the bird you just heard singing? A group of women from local Polish chapter of Women in Machine Learning & Data Science (WiMLDS) organization not only thought about it but also decided to create a solution, on their own, to be able to detect birds species — based on the sound they make.
+summary: Have you ever wondered about the name of the bird you just heard singing? A group of women from local Polish chapter of Women in Machine Learning & Data Science (WiMLDS) organization not only thought about it but also decided to create a solution, on their own, to be able to detect birds species based on the sound they make.
 abstract:
 
 # Talk start and end times.
