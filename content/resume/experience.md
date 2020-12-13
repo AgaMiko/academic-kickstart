@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Machine Learning Researcher"
+  company = "VoiceLab.AI - Conversational Intelligence"
+  company_url = ""
+  location = "Gdańsk, Poland"
+  date_start = "2020-03-01"
+  date_end = ""
+  description = "Deep Learning, NLP and Acoustics"
+  
+
+[[experience]]
   title = "Lecturer and research assistant"
   company = "Gdańsk University of Technology"
   company_url = ""

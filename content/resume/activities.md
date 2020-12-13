@@ -49,7 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+* Organizer and team member of AI for Good educational project [detect waste in Pomerania](detectwaste.ml)
+* Co-organizer of Hack4Environment - hackathon supporting 'Detect waste' project
 * Member of the Board of the Tri-City [AI Bay Artificial Intelligence Club](http://aibay.ai/)
 * Organisation of the [IAV Cup 2018](https://eti.pg.edu.pl/safeidea/iav-cup-2018) competition (member of the Organisational Committee)
 * Organisation of the [IAV Cup 2019](https://eti.pg.edu.pl/safeidea/iav-cup-2019) competition (member of the Organisational Committee)
