@@ -56,7 +56,6 @@ This project was designed to be a collaboration on a real-life problem which mac
 
 Female data scientists, PhD candidates, ornithologists, data analysts and software engineers who had prior experience with Python joined forces in a series of two-week-long sprints to work together on the project.
 
-![Flying bird](http://www.kuwaitbirds.org/sites/default/files/files-misc/birding-bird-shapes-1.jpg)
 
 ## What bird is singing nearby?
 
