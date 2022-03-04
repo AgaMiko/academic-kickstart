@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+* Organizer and team member of AI for Good educational project [HearAI - Modelling Sign Language with Deep Learning](hearai.pl)
+* Organizer of PolEval2021 and author of first corpus for punctuation restoration. -- ["PolEval 2021 Task 1: Punctuation restoration from read text"](http://poleval.pl/tasks/task1)
 * Organizer and team member of AI for Good educational project [detect waste in Pomerania](detectwaste.ml)
 * Co-organizer of Hack4Environment - hackathon supporting 'Detect waste' project
 * Member of the Board of the Tri-City [AI Bay Artificial Intelligence Club](http://aibay.ai/)
