@@ -11,7 +11,7 @@ categories: []
 date: 2020-01-20T16:12:35+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.hearai.pl/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -69,3 +69,4 @@ Sign language is different comparing to Polish. Deaf people learn it as a foreig
 * Experimenting with technologies.
 * Sharing knowledge.
 
+Learn more about us [here](https://www.hearai.pl/).
