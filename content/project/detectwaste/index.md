@@ -6,7 +6,7 @@ subtitle: "Helping environment with Machine Learning methods"
 summary: "Using detection models to localize and classify waste on images and video."
 
 authors: [Agnieszka Mikolajczyk, Magdalena Kortas, Ewa Marczewska, WiMLDS]
-tags: [Sound Analysis, Deep Learning]
+tags: [Detection, Deep Learning, AI4Good]
 categories: []
 date: 2020-01-20T16:06:02+01:00
 
