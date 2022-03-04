@@ -34,13 +34,13 @@ date_format = "Jan 2006"
   company = "VoiceLab.AI - Conversational Intelligence"
   company_url = ""
   location = "Gdańsk, Poland"
-  date_start = "2021-11-30"
-  date_end = ""
+  date_start = "2020-03-01"
+  date_end = "2021-11-30"
   description = "Deep Learning, NLP and Acoustics"
   
 
 [[experience]]
-  title = "Lecturer and research assistant"
+  title = "Research assistant"
   company = "Gdańsk University of Technology"
   company_url = ""
   location = "Gdańsk, Poland"
