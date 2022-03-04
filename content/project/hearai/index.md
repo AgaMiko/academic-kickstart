@@ -69,4 +69,7 @@ Sign language is different comparing to Polish. Deaf people learn it as a foreig
 * Experimenting with technologies.
 * Sharing knowledge.
 
+<<<<<<< HEAD
 Learn more about us [here](https://www.hearai.pl/).
+=======
+>>>>>>> fix project description
