@@ -5,7 +5,7 @@ title: "Skin Lesion Classification"
 subtitle: Early detecion of skin cancer with Convolutional Neural Networks and Dermoscopic Imaging
 summary: ""
 authors: [Agnieszka Mikolajczyk, Arkadiusz Kwasigroch, Michal Grochowski]
-tags: [Deep Learning, Image Analtysis, Medicine]
+tags: [Deep Learning, Image Analtysis, Medicine, projects]
 categories: []
 date: 2020-01-20T16:11:19+01:00
 

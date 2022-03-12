@@ -6,7 +6,7 @@ subtitle: "Model Sign Language with Machine Learning"
 summary: "Deaf people are affected by many forms of exclusion, especially now in the pandemic world. HearAI aims to build a deep learning solution to make the world more accessible for the Deaf community and increase the existing knowledge base in using AI for Polish Sign Language."
 
 authors: [Agnieszka Mikolajczyk]
-tags: [Deep Learning, AI4Good]
+tags: [Deep Learning, AI4Good, projects]
 categories: []
 date: 2020-01-20T16:12:35+01:00
 
