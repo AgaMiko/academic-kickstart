@@ -28,8 +28,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/AgaMiko/pixel_character_generator"
-url_pdf: ""
+url_code: "https://github.com/wimlds-trojmiasto/detect-waste"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0956053X21006474"
 url_slides: ""
 url_video: ""
 
