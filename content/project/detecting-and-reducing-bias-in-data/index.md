@@ -8,7 +8,7 @@ summary: "Currently, in contrast to shallow models exploited in the past, most d
 To address those challenges the project aims to develop methods of Explainable Artificial Intelligence (XAI) which might help to uncover and reduce the problem of bias in data. The project involves investigation and integration of explainability into new and existing Artificial Intelligence systems, and mostly focuses on Deep Neural Networks in the field of Computer Vision. One of the ways of categorizing XAI methods is to divide them into local and global explanations. Local analysis aims to explain a single prediction of a model, whereas a global one tries to explain how the whole model works in general. The project aims to develop novel methods of both local and global explainability to help explain deep neural network-based systems in order to justify them, to control their reasoning process, and to discover new knowledge."
 
 authors: [Agnieszka Mikolajczyk]
-tags: [explainable AI, Deep Learning]
+tags: [explainable AI, Deep Learning, projects]
 categories: []
 date: 2020-01-20T16:12:35+01:00
 

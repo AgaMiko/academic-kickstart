@@ -6,7 +6,7 @@ subtitle: "The world's waste pollution is rapidly increasing."
 summary: "Hackathon. Let's do something for our environment."
 
 authors: [wimlds, dih, voicelab]
-tags: [hackathon, Deep Learning]
+tags: [hackathon, Deep Learning, hackathon, projects]
 categories: []
 date: 2020-01-20T16:06:02+01:00
 
