@@ -6,7 +6,7 @@ subtitle: "Have you ever wondered about the name of the bird you just heard sing
 summary: "Sound-Based Bird Classification using Convolutional Neural Networks and Mel-Cepstrum Sepctrograms"
 
 authors: [Agnieszka Mikolajczyk, Magdalena Kortas, Monika Serkowska, Małgorzata Ciwoniuk, Agata Dragan-Górska, Magdalena Kamińska, Ewa Tusień, WiMLDS]
-tags: [Sound Analysis, Deep Learning]
+tags: [Sound Analysis, Deep Learning, projects]
 categories: []
 date: 2020-01-20T16:06:02+01:00
 
