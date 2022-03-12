@@ -28,9 +28,9 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "http://poleval.pl/tasks/task1"
-url_pdf: ""
-url_slides: ""
+url_code: "https://github.com/poleval/2021-punctuation-restoration"
+url_pdf: "https://www.researchgate.net/profile/Maciej-Ogrodniczuk/publication/356148995_Proceedings_of_the_PolEval_2021_Workshop/links/618d89a3d7d1af224bdc7523/Proceedings-of-the-PolEval-2021-Workshop.pdf#page=21"
+url_slides: "http://poleval.pl/tasks/task1"
 url_video: ""
 
 # Slides (optional).
