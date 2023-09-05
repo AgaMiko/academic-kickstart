@@ -73,5 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
-
+PhD Agnieszka Mikołajczyk is an author of datasets, scientific papers, and publications, holding numerous scholarships and awards. She works on Large Language Models like the first Polish GPT model called TRURL. She is a co-organizer of PolEval2021 and PolEval 2022 tasks with punctuation prediction and restoration. She organizes and actively contributes to the scientific community in her free time: she managed and led the team during the HearAI project focused on modeling Sign Language (hearai.pl). A former organizer and a team leader at the open-source project detectwaste.ml. As an ML Expert, she supports the project “Susana” designed to detect and read product expiry dates to help the Blind “see”. Daily, she conducts her research on her grant “Detecting and overcoming bias in data with explainable artificial intelligence” Preludium, awarded by Polish National Centre (biasinml.netlify.app). 
