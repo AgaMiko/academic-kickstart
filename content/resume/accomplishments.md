@@ -48,4 +48,34 @@ date_format = "Jan 2006"
   date_end = ""
   description = "For an oral presentation: Data augmentation for improving deep learning in image classification problem"
 
+[[item]]
+  organization = "International Conference on Computational Science"
+  organization_url = "https://www.iccs-meeting.org/"
+  title = "Published paper: Transferable Keyword Extraction and Generation with Text-to-Text Language Models"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-06-01"
+  date_end = ""
+  description = "Pęzik, P., Mikołajczyk, A., Wawrzyński, A., Żarnecki, F., Nitoń, B., Ogrodniczuk, M."
+
+[[item]]
+  organization = "MICCAI 2022"
+  organization_url = "https://conferences.miccai.org/2022/en/"
+  title = "Published paper: The (de)biasing effect of GAN-based augmentation methods on skin lesion images"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-09-01"
+  date_end = ""
+  description = "Paper was among the top 13% that received a provisional accept recommendation"
+
+[[item]]
+  organization = "Waste Management Journal"
+  organization_url = ""
+  title = "Published paper: Deep learning-based waste detection in natural and urban environments"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-01-01"
+  date_end = ""
+  description = "Majchrowska, S., Mikołajczyk, A., Ferlin, M., Klawikowska, Z., Plantykow, M. A., Kwasigroch, A., Majek, K. (Impact Factor: 6.178)"
+
 +++
