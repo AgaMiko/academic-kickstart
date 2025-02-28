@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
@@ -17,19 +17,26 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "python"
-  description = "pytorch, tensorflow, keras, pandas"
-  
+  name = "Python"
+  description = "Langchain, PyTorch, Transformers"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Natural Language Processing"
+  description = "LLMs, Transformers, BERT, GPT, RAG"
+
 [[feature]]
   icon = "eye"
   icon_pack = "fas"
   name = "Computer Vision"
-  description = "Convolutional Neural Networks"  
-  
+  description = "CNNs, Vision Transformers, Object Detection"  
+
+
 [[feature]]
-  icon = "brain"
+  icon = "robot"
   icon_pack = "fas"
-  name = ""
-  description = ""
+  name = "AI Assistants"
+  description = "LLM-based agents, Conversational AI, RAG"
 
 +++

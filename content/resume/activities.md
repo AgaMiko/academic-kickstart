@@ -49,12 +49,26 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-* Organizer and team member of AI for Good educational project [HearAI - Modelling Sign Language with Deep Learning](hearai.pl)
-* Organizer of PolEval2021 and author of first corpus for punctuation restoration. -- ["PolEval 2021 Task 1: Punctuation restoration from read text"](http://poleval.pl/tasks/task1)
-* Organizer and team member of AI for Good educational project [detect waste in Pomerania](detectwaste.ml)
+* Nominated as Top 10 Women in Data Science Poland (2024)
+* Over 2500 citations on Google Scholar as of 2024
+* Senior AI Engineer at Chaptr developing large language models (2023-present)
+* Co-creator of "the Keygen" newsletter about artificial intelligence, leading the "Explained" section
+* Named among Top Women in AI in Poland (2023)
+* Named one of the "23 Most Influential Poles in AI" by My Company Polska magazine (2023)
+* NLP Team Leader at Voicelab.AI who led the team that developed TRURL.AI, the first ChatGPT alternative in Poland (2023)
+* ML Expert for "Susana" project aimed at detecting and reading product expiration dates to help the blind "see"
+* ML Expert for "Next Designer" architectural project using AI for automatic building plan generation
+* Co-organizer of PolEval 2022 and co-creator of the Polish Corpus for Punctuation Prediction
+* Principal Investigator for "Detecting and overcoming bias in data with explainable artificial intelligence" (Preludium Grant)
+* Organizer and team member of AI for Good educational project [HearAI - Modelling Sign Language with Deep Learning](https://hearai.pl)
+* Principal ML Researcher for HearAI project working with Vision Transformers, CNNs, and pose estimation
+* Organizer of PolEval2021 and author of first corpus for punctuation restoration -- ["PolEval 2021 Task 1: Punctuation restoration from read text"](http://poleval.pl/tasks/task1)
+* Organizer and team member of AI for Good educational project [detect waste in Pomerania](https://detectwaste.ml)
 * Co-organizer of Hack4Environment - hackathon supporting 'Detect waste' project
+* ML Lead for [detect waste in Pomerania](https://detectwaste.ml) project, published in Waste Management (IF = 6.178)
 * Member of the Board of the Tri-City [AI Bay Artificial Intelligence Club](http://aibay.ai/)
-* Organisation of the [IAV Cup 2018](https://eti.pg.edu.pl/safeidea/iav-cup-2018) competition (member of the Organisational Committee)
+* Over 1500 citations on Google Scholar as of 2023
+* Member of the [Gdańsk University of Technology Faculty Council](https://eia.pg.edu.pl/o-wydziale/sklad) representing the faculty (2018-2020)
+* [Representative of PhD Students](https://pg.edu.pl/sd/obecny-samorzad) at the Faculty Council and Member of the Faculty Scholarship Committee (2018-2020)
 * Organisation of the [IAV Cup 2019](https://eti.pg.edu.pl/safeidea/iav-cup-2019) competition (member of the Organisational Committee)
-* Member of the [Gdańsk University of Technology Faculty Council](https://eia.pg.edu.pl/o-wydziale/sklad) representing the faculty, the Audit Committee and the Disciplinary Committee of the Faculty of Electrical Engineering and Automation (2018/2019 and 2019/2020)
-* [Representative of PhD Students](https://pg.edu.pl/sd/obecny-samorzad) at the Faculty Council and Member of the Faculty Scholarship Committee (Faculty of Electrical Engineering and Automation) - 2018/2019 and 2019/2020 
+* Organisation of the [IAV Cup 2018](https://eti.pg.edu.pl/safeidea/iav-cup-2018) competition (member of the Organisational Committee)

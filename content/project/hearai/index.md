@@ -71,4 +71,38 @@ Sign language is different comparing to Polish. Deaf people learn it as a foreig
 
 Learn more about us [here](https://www.hearai.pl/).
 
+---
+title: HearAI - Sign Language Recognition
+summary: Automatic translation of sign language from video to text using the HamNoSys notation.
+tags:
+- ai-for-good
+date: "2021-05-01T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page)
+external_link: "https://www.hearai.pl/"
+
+image:
+  caption: 
+  focal_point: Smart
+
+links:
+- icon: link
+  icon_pack: fas
+  name: Project Website
+  url: https://www.hearai.pl/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---
+
+The project involved automatic translation of sign language from video to text using the HamNoSys notation. I co-organized the project, proposed a research plan, and led the team in the project HearAI for recognizing the Polish Sign Language. The research team included 12 people of which seven were recruited out of 75 applications. We worked directly on video using multimodal custom models with Vision Transformers, CNNs, and pose estimation (MediaPipe/OpenPose).
+
 
