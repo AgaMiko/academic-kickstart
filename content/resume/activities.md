@@ -49,9 +49,37 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+## Presentations & Talks
+
+### Conference Presentations
+- **The chatbots of tomorrow: Agentic Design Patterns in LLMs** (May 22, 2024)  
+  DATAMASS STAGE, Infoshare event  
+  [View details](https://infoshare.pl/speakers-list/agnieszka-mikolajczyk-barela-o1742g628c48-one.html)
+
+- **HearAI: Towards Deep learning-based Sign Language Recognition** (October 6, 2022)  
+  ARENA STAGE, Infoshare event  
+  [See presentation details](https://infoshare.pl/speakers-list/agnieszka-mikolajczyk-barela-o1742g628c48-one.html)
+
+### Example Video Presentations
+- **GenAI bez tajemnic**  
+  An exploration of generative AI topics in a non-technical way  
+  [Watch on YouTube](https://www.youtube.com/watch?v=Cdu4h1JYGzY)
+- **Automated Generation of Keywords from the NLP Perspective**  
+  A presentation on using NLP techniques for keyword generation  
+  [Watch on YouTube](https://www.youtube.com/watch?v=ABSmOUy4Uds)
+
+### Panel Discussions
+- **LLM Use Cases in Production Panel**  
+  MLOps Community panel discussion on large language models in production  
+  [Watch the panel discussion](https://home.mlops.community/public/videos/llm-use-cases-in-production-panel)
+
+  
+## Awards & Honors
 * Nominated as Top 10 Women in Data Science Poland (2024)
 * Over 2500 citations on Google Scholar as of 2024
 * Senior AI Engineer at Chaptr developing large language models (2023-present)
+* Nominated as Top 100 Women in AI Poland (2023)
 * Co-creator of "the Keygen" newsletter about artificial intelligence, leading the "Explained" section
 * Named among Top Women in AI in Poland (2023)
 * Named one of the "23 Most Influential Poles in AI" by My Company Polska magazine (2023)
