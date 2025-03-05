@@ -2,7 +2,7 @@
 # A section created with the Blank widget to display awards.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 67  # Order that this section will appear (between Projects and Talks).
 
 title = "Awards & Honors"
