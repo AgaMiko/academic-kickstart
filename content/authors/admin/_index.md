@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Agnieszka Mikołajczyk
+name: Agnieszka Mikołajczyk-Bareła
 
 # Username (this should match the folder name)
 authors:
@@ -16,8 +16,6 @@ role: PhD & Senior AI Engineer
 organizations:
 - name: Chaptr.AI
   url: "https://chaptr.ai/"
-- name: Gdańsk University of Technology
-  url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher, programmer and AI expert with a solid experience in the industry, focusing on large language models, explainable AI, and bias detection and mitigation.
@@ -79,46 +77,4 @@ user_groups:
 
 Researcher, programmer and AI expert with a solid experience in the industry. Currently working as a Senior AI Engineer at Chaptr.AI, developing large language models and AI assistants. Previously, as NLP Team Leader at Voicelab.AI, led the team that designed and trained TRURL, the first ChatGPT alternative in Poland. Successfully defended PhD at Gdańsk University of Technology on detecting and reducing the impact of errors and biases in AI data and models.
 
-With over 1500 citations on Google Scholar, Dr. Mikołajczyk has contributed to numerous research projects and publications in machine learning, focusing on bias detection, explainable AI, and natural language processing. She has led multiple AI for Good initiatives, including HearAI for sign language recognition and DetectWaste for environmental applications.
-
-## Awards & Honors
-
-- **Top 10 Women in Data Science Award** (2024)  
-  Excellence in Data Science Award in the Data Science Research category, presented by Perspektywy Women in Tech. Selected by a jury chaired by Dominika Bettman (General Manager at Microsoft Poland) from among the TOP-100 Women in Data Science as one of the 10 most prominent female experts in Poland.
-
-- **Young Author Best Paper Award** (2018)  
-  For oral presentation at a scientific conference.
-
-- **Best Graduating Thesis in Innovative Technologies** (2018)  
-  Second place award for master's thesis.
-
-- **MŁODZI INNOWACYJNI Award** (2018)  
-  First place for best master's thesis.
-
-- **MŁODZI INNOWACYJNI Award** (2016)  
-  First place for best bachelor's thesis.
-
-## Presentations & Talks
-
-### Conference Presentations
-- **The chatbots of tomorrow: Agentic Design Patterns in LLMs** (May 22, 2024)  
-  DATAMASS STAGE, Infoshare event  
-  [View details](https://infoshare.pl/speakers-list/agnieszka-mikolajczyk-barela-o1742g628c48-one.html)
-
-- **HearAI: Towards Deep learning-based Sign Language Recognition** (October 6, 2022)  
-  ARENA STAGE, Infoshare event  
-  [See presentation details](https://infoshare.pl/speakers-list/agnieszka-mikolajczyk-barela-o1742g628c48-one.html)
-
-### Video Presentations
-- **GenAI bez tajemnic**  
-  An exploration of generative AI topics in a non-technical way  
-  [Watch on YouTube](https://www.youtube.com/watch?v=Cdu4h1JYGzY)
-
-- **Automated Generation of Keywords from the NLP Perspective**  
-  A presentation on using NLP techniques for keyword generation  
-  [Watch on YouTube](https://www.youtube.com/watch?v=ABSmOUy4Uds)
-
-### Panel Discussions
-- **LLM Use Cases in Production Panel**  
-  MLOps Community panel discussion on large language models in production  
-  [Watch the panel discussion](https://home.mlops.community/public/videos/llm-use-cases-in-production-panel)
+With over 2500 citations on Google Scholar, Dr. Mikołajczyk has contributed to numerous research projects and publications in machine learning, focusing on bias detection, explainable AI, and natural language processing. She has led multiple AI for Good initiatives, including HearAI for sign language recognition and DetectWaste for environmental applications.
