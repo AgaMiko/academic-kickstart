@@ -63,9 +63,6 @@ awards_recognitions:
 
 # Social/Academic Networking - Added ORCID, ResearchGate, Medium, Hugging Face
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:agnieszka.mikolajczyk.pg@gmail.com' # Consider using a professional/forwarding email if preferred
 - icon: twitter # Or 'x-twitter' if using newer FontAwesome
   icon_pack: fab
   link: https://twitter.com/AgnMikolajczyk
@@ -90,13 +87,7 @@ social:
 - icon: face-smile # Using a generic icon for Hugging Face - replace if a better one exists/added
   icon_pack: fas # Using FontAwesome Solid - alternatively use 'link' icon
   link: https://huggingface.co/AgaMiko
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the line below.
-# Ensure the file exists at this path relative to your `static` directory.
-- icon: cv
-  icon_pack: ai # Academicons icon pack
-  link: files/cv.pdf # Make sure cv.pdf is in the static/files/ directory
-
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "" # Keep empty unless using Gravatar
 
