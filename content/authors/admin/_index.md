@@ -9,27 +9,36 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: PhD & Senior AI Engineer
+# Role/position - More descriptive
+role: PhD, Senior AI Engineer & Researcher
 
-# Organizations/Affiliations
+# Organizations/Affiliations - Current and significant appointments
 organizations:
 - name: Chaptr.AI
   url: "https://chaptr.ai/"
+- name: PL/AI Advisory Group ("AI for Poland") - Ministry of Digitalization
+  url: "https://www.gov.pl/web/cyfryzacja/plai-sztuczna-inteligencja-dla-polski" # Example URL, replace with official if available
 
-# Short bio (displayed in user profile at end of posts)
-bio: Researcher, programmer and AI expert with a solid experience in the industry, focusing on large language models, explainable AI, and bias detection and mitigation.
+# Short bio (displayed in user profile at end of posts) - Updated and expanded
+bio: |
+  Dr. Agnieszka Mikołajczyk-Bareła is a Senior AI Engineer at Chaptr.AI, focusing on Large Language Models (LLMs), RAG, and AI assistants. Previously, as NLP Team Leader at Voicelab.AI, she led the development of TRURL, Poland's first large-scale generative model. 
+  
+  Her PhD research at Gdańsk University of Technology concentrated on crucial issues of bias detection and mitigation in AI. With over 2500 citations (Google Scholar), her work spans LLMs, Explainable AI (XAI), and ethical AI development. She actively contributes to "AI for Good" initiatives like HearAI and DetectWaste.
 
+# Interests - Seems current and relevant
 interests:
-- Large Language Models
-- Explainable Artificial Intelligence
+- Large Language Models (LLMs)
+- Explainable Artificial Intelligence (XAI)
 - Bias Detection & Mitigation
-- Image Analysis
-- Deep Learning
+- Responsible & Ethical AI
+- Natural Language Processing (NLP)
+# - Image Analysis (Keep if still a major focus, comment out/remove if less so)
+# - Deep Learning (Generally covered by others, keep if specific DL research is highlighted)
 
+# Education - Correct
 education:
   courses:
-  - course: PhD in Machine Learning
+  - course: PhD in Machine Learning (Bias Detection & Mitigation)
     institution: Gdańsk University of Technology
     year: 2017 - 2022
   - course: MEng in Control Theory
@@ -39,19 +48,29 @@ education:
     institution: Gdańsk University of Technology
     year: 2012 - 2016
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Awards and Recognitions (New Section - Requires theme support or custom template)
+# Check theme documentation for how to display this. Add as needed.
+awards_recognitions:
+  - description: Top 10 Women in Data Science Poland 2024
+    url: "" # Add link to award source if available
+    year: 2024
+  - description: Top 100 Women in AI Poland 2023
+    url: "" # Add link to award source if available
+    year: 2023
+  - description: Appointed Member of PL/AI Advisory Group
+    url: "https://www.gov.pl/web/cyfryzacja/plai-sztuczna-inteligencja-dla-polski" # Repeat link or provide specific announcement
+    year: 2024
+
+# Social/Academic Networking - Added ORCID, ResearchGate, Medium, Hugging Face
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:agnieszka.mikolajczyk.pg@gmail.com'
-- icon: twitter
+  link: 'mailto:agnieszka.mikolajczyk.pg@gmail.com' # Consider using a professional/forwarding email if preferred
+- icon: twitter # Or 'x-twitter' if using newer FontAwesome
   icon_pack: fab
   link: https://twitter.com/AgnMikolajczyk
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: ai # Academicons icon pack
   link: https://scholar.google.pl/citations?user=VFMjpTsAAAAJ&hl=pl
 - icon: github
   icon_pack: fab
@@ -59,22 +78,31 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/agnieszkamikolajczyk/
+- icon: orcid # Use 'id-badge' if 'orcid' is not in your Academicons version
+  icon_pack: ai # Academicons icon pack
+  link: https://orcid.org/0000-0002-8003-6243
+- icon: researchgate
+  icon_pack: fab # FontAwesome Brands icon pack
+  link: https://www.researchgate.net/profile/Agnieszka-Mikolajczyk-Barela
+- icon: medium
+  icon_pack: fab # FontAwesome Brands icon pack
+  link: https://medium.com/@agnieszkamikolajczyk
+- icon: face-smile # Using a generic icon for Hugging Face - replace if a better one exists/added
+  icon_pack: fas # Using FontAwesome Solid - alternatively use 'link' icon
+  link: https://huggingface.co/AgaMiko
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the line below.
+# Ensure the file exists at this path relative to your `static` directory.
+- icon: cv
+  icon_pack: ai # Academicons icon pack
+  link: files/cv.pdf # Make sure cv.pdf is in the static/files/ directory
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "" # Keep empty unless using Gravatar
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+# - Researchers # Example groups, adjust if needed
+# - Visitors
 ---
-
-Researcher, programmer and AI expert with a solid experience in the industry. Currently working as a Senior AI Engineer at Chaptr.AI, developing large language models and AI assistants. Previously, as NLP Team Leader at Voicelab.AI, led the team that designed and trained TRURL, the first ChatGPT alternative in Poland. Successfully defended PhD at Gdańsk University of Technology on detecting and reducing the impact of errors and biases in AI data and models.
-
-With over 2500 citations on Google Scholar, Dr. Mikołajczyk has contributed to numerous research projects and publications in machine learning, focusing on bias detection, explainable AI, and natural language processing. She has led multiple AI for Good initiatives, including HearAI for sign language recognition and DetectWaste for environmental applications.
